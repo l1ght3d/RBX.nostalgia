@@ -1,6 +1,6 @@
 PlaceName:Apocalypse Rising 
 Creator:Gusmanak
 Created:4/1/2008
-Visits:133,416,383
-Playing:4,143
+Visits:133,419,237
+Playing:4,119
 IsOpen:True
