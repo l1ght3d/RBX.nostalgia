@@ -2,5 +2,5 @@ PlaceName:A Pirate's Life
 Creator:lando64000
 Created:3/27/2009
 Visits:7,415,7
-Playing:30
+Playing:28
 IsOpen:True
