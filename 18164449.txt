@@ -1,6 +1,0 @@
-PlaceName:Base Wars!   
-Creator:D8Dev
-Created:11/17/2009
-Visits:50,031,97
-Playing:337
-IsOpen:True
