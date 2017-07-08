@@ -1,0 +1,6 @@
+PlaceName:A Pirate's Life
+Creator:lando64000
+Created:3/27/2009
+Visits:7,415,3
+Playing:32
+IsOpen:True
